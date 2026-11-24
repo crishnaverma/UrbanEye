@@ -113,6 +113,8 @@ document.addEventListener('DOMContentLoaded', () => {
     initMap();
     setupEventListeners();
     fetchSystemData();
+    // Live Auto-Refresh every 3 seconds for real-time fleet synchronization
+    setInterval(fetchSystemData, 3000);
 });
 
 // Setup Navigation Tabs

@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "C:\\Users\\Krishna Verma\\.gemini\\antigravity\\scratch\\Gaddhamukt\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "57585c53224736b4dccda8c042b93d7bd3f24808c908770eeb9ec121ed9417cb",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
